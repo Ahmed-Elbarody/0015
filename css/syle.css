@@ -1,0 +1,65 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(../img/bg_mountain.jpg);
+}
+
+form {
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    left: 750px;
+    top: 80px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+h1 {
+    position: relative;
+    left: 55px;
+    top: 10px;
+    font-family: sans-serif;
+}
+
+input {
+    height: 30px;
+    width: px;
+    border-style: none;
+    border-bottom: 1px solid black;
+    position: relative;
+    top: 13px;
+    left: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+textarea {
+    height: 50px;
+    width: 350px;
+    border-style: none;
+    border-bottom: 1px solid black;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    margin: 5px;
+}
+
+.but {
+    height: 40px;
+    width: 300px;
+    position: relative;
+    left: 40px;
+    background-color: rgb(243, 135, 62);
+    color: white;
+}
